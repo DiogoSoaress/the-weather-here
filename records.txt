@@ -1,0 +1,7 @@
+{"latitude":52.553627899999995,"longitude":13.4072564}
+{"latitude":52.553627899999995,"longitude":13.4072564}
+{"latitude":52.5536568,"longitude":13.4072397}
+{"latitude":52.5536568,"longitude":13.4072397}
+{"latitude":52.5536568,"longitude":13.4072397}
+{"latitude":52.5536325,"longitude":13.407253299999999}
+{"latitude":52.553648499999994,"longitude":13.4072184}

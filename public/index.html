@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.min.js"></script>
+</head>
+<body>
+  <h1>The Weather Here</h1>
+  <div><a href="/">check in</a> | <a href="/logs">view checkins</a></div>
+  <p>
+    I'm sitting out here at<span id="lat"></span>&deg;, <span id="lon"></span>&deg; on this 
+    <span id="summary"></span> day and it feels like <span id="temperature"></span>°C outside.
+    <br/>
+    The concentration of small carcinogenic particles (<span id="aq_parameter"></span>) I'm breathing in 
+    is <span id="aq_value"></span> <span id="aq_units"></span> measured from <span id="aq_location"></span>
+    on <span id="aq_date"></span>.
+  </p>
+  <!-- <button id="submit">check in</button> -->
+  <script src="sketch.js"></script>
+</body>
+</html>
